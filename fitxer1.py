@@ -1,0 +1,1 @@
+print("Aquest és el fitxer 1")
